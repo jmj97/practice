@@ -8,6 +8,7 @@ int main(){
 
 	for (int i=0;i<2;i++){
 		printf("wow! amazing");
+		printf("follow me");
 	}
 
 	reutrn 0;
